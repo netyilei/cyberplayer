@@ -1,0 +1,22 @@
+{
+  "name": "cyberplayer",
+  "version": "3.8.0",
+  "description": "baiduAi cyberplayer 3.8.0",
+  "main": "cyberplayer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netyilei/cyberplayer.git"
+  },
+  "keywords": [
+    "baiduai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netyilei/cyberplayer/issues"
+  },
+  "homepage": "https://github.com/netyilei/cyberplayer#readme"
+}
